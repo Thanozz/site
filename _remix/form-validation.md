@@ -21,6 +21,6 @@ tags:
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="2019239" data-slug-hash="QWKELag" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form Validation New">
   <span>See the Pen <a href="https://codepen.io/2019239/pen/QWKELag">
   Form Validation New</a> by Thanozz (<a href="https://codepen.io/2019239">@2019239</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
+  on <a href=#>CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
