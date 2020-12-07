@@ -23,4 +23,4 @@ tags:
   Form Validation New</a> by Thanozz (<a href="https://codepen.io/2019239">@2019239</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
